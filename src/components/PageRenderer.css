@@ -1,0 +1,9 @@
+.page-wrapper {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.page-canvas {
+  display: block;
+  border: 1px solid #eee;
+}
